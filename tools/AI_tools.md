@@ -2,16 +2,25 @@
 
 <!--TODO: 2023/10 再调研一波-->
 
-AI有望做到，为单线程的人类个体“开 n 个线程”
+AI有望做到，为单线程的人类个体“开 n 个线程”。
+
+不过现在不用太关心AI工具，半年后形势又不一样了。
+
+如果只选一个产品，ChatGPT，最好充会员。
+
 
 | 类别 | 收费       | 免费                         |
 | ---- | ---------- | ---------------------------- |
-| 通用 | ChatGPT4   | Claude2, ChatGPT3            |
+| 通用 | ChatGPT4   | Claude2, ChatGPT3.5            |
 | 绘画 | Midjourney | BlueWillow, Stable Diffusion |
 | 搜索 | ?          | perplexity, Bing Chat        |
 | 写作 | NotionAI   | Coogle Docs AI               |
 | 设计 | Canva AI   | Microsoft Desiner            |
-| ？ | ChatGPT Code Interpreter | ? |
+| 程序 | ChatGPT4   | Claude2, ChatGPT3.5, Bard[^1]       |
+| ？[^2] | ChatGPT Code Interpreter | ？ |
 
-不知道怎么给`ChatGPT Code Interpreter`归类
+
+
+[^1]: Bard可以输入图像来生成视图，其他能力不如其他列出模型
+[^2]: `ChatGPT Code Interpreter`是一种很新的东西。不知道怎么给它归类，大体作用有：数据分析、文件转化与“形式”处理，简单机器学习能力（调参或训练），详见仓库[gantrol/chatgpt-code-interpreter-cn](https://github.com/gantrol/chatgpt-code-interpreter-cn)
 
