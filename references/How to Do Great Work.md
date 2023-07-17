@@ -124,7 +124,7 @@ The trouble with exponential growth is that the curve feels flat in the beginnin
 
 Something that grows exponentially can become so valuable that it's worth making an extraordinary effort to get it started. But since we underrate exponential growth early on, this too is mostly done unconsciously: people push through the initial, unrewarding phase of learning something new because they know from experience that learning new things always takes an initial push, or they grow their audience one fan at a time because they have nothing better to do. If people consciously realized they could invest in exponential growth, many more would do it.
 
-## 6
+## 7
 
 Work doesn't just happen when you're trying to. There's a kind of undirected thinking you do when walking or taking a shower or lying in bed that can be very powerful. By letting your mind wander a little, you'll often solve problems you were unable to solve by frontal attack.
 
@@ -132,7 +132,7 @@ You have to be working hard in the normal way to benefit from this phenomenon, t
 
 Everyone knows to avoid distractions at work, but it's also important to avoid them in the other half of the cycle. When you let your mind wander, it wanders to whatever you care about most at that moment. So avoid the kind of distraction that pushes your work out of the top spot, or you'll waste this valuable type of thinking on the distraction instead. (Exception: Don't avoid love.)
 
-## 7
+## 8
 
 Consciously cultivate your taste in the work done in your field. Until you know which is the best and what makes it so, you don't know what you're aiming for.
 
@@ -142,7 +142,7 @@ Fortunately there's a kind of economy of scale here. Though it might seem like y
 
 One way to aim high is to try to make something that people will care about in a hundred years. Not because their opinions matter more than your contemporaries', but because something that still seems good in a hundred years is more likely to be genuinely good.
 
-## 8
+## 9
 
 Don't try to work in a distinctive style. Just try to do the best job you can; you won't be able to help doing it in a distinctive way.
 
