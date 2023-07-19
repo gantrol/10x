@@ -412,7 +412,7 @@ Doing great work is a depth-first search whose root node is the desire to. So "I
 
 "Never give up" is also not quite right. Obviously, there are times when it's the right choice to eject. A more precise version would be: Never let setbacks panic you into backtracking more than you need to. Corollary: Never abandon the root node.
 
-It's not necessarily a bad sign if work is a struggle, any more than it's a bad sign to be out of breath while running. It depends how fast you're running. So learn to distinguish good pain from bad. Good pain is a sign of effort; bad pain is a sign of damage.
+`It's not necessarily a bad sign if work is a struggle, any more than it's a bad sign to be out of breath while running. It depends on how fast you're running. So learn to distinguish good pain from bad. Good pain is a sign of effort; bad pain is a sign of damage.
 
 ## 26
 
