@@ -3,7 +3,7 @@
 做到最好比做到更好要简单吗？
 
 - 10x is easier than 2x
-  - [10x 摘要（未上传）](references/10x.md)
+  - [10x 笔记](references/10x.md)
   - [1](references/1.md)
   - [0](references/0.md)
 - [How to Do Great Work](references/How_to_Do_Great_Work.md)
